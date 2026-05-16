@@ -1,0 +1,73 @@
+# 🧩 Sprint 1: Project Setup  
+## HOPE INC. Customer Management System
+
+---
+
+## 📌 Overview  
+This sprint focuses on setting up the base project and preparing the system for development.
+
+---
+
+## ⚙️ 1. Project Setup  
+The project was initialized using modern web tools:
+
+- React (Vite)
+- Tailwind CSS
+- React Router DOM
+- Supabase
+
+All required dependencies were installed using `npm install`.
+
+---
+
+## 🧭 2. Routing Setup  
+React Router DOM was used to handle page navigation.
+
+Pages include:
+- Dashboard
+- Customers
+- Products
+- Sales
+- Login / Register
+- Reports
+
+---
+
+## 🔐 3. Supabase Setup  
+Supabase was added as the backend service.
+
+- Connected using `.env` file
+- Prepared for authentication and database features
+
+---
+
+## 🎨 4. UI Setup  
+Basic layout structure was created using:
+
+- Sidebar
+- Navbar
+- Main content area
+
+This ensures a consistent design across pages.
+
+---
+
+## 🧪 5. Output of Sprint 1  
+At the end of Sprint 1:
+
+- Project runs using Vite
+- Navigation is working
+- Basic UI layout is ready
+- Supabase setup is prepared
+
+---
+
+## 🚧 6. Current Status  
+- Backend features are not yet implemented  
+- Some pages are still basic  
+- More features will be added in the next sprints  
+
+---
+
+## 📌 Conclusion  
+Sprint 1 successfully established the foundation of the system. The project is ready for further development.
