@@ -1,73 +1,58 @@
-# 🧩 Sprint 1: Project Setup  
-## HOPE INC. Customer Management System
+🧩 Sprint 1: Project Setup
+HOPE INC. Customer Management System
+📌 Overview
 
----
-
-## 📌 Overview  
 This sprint focuses on setting up the base project and preparing the system for development.
 
----
+⚙️ 1. Project Setup
 
-## ⚙️ 1. Project Setup  
 The project was initialized using modern web tools:
 
-- React (Vite)
-- Tailwind CSS
-- React Router DOM
-- Supabase
+React (Vite)
+Tailwind CSS
+React Router DOM
+Supabase
 
-All required dependencies were installed using `npm install`.
+All required dependencies were installed using npm install.
 
----
+🧭 2. Routing Setup
 
-## 🧭 2. Routing Setup  
-React Router DOM was used to handle page navigation.
+React Router DOM was used to handle navigation between pages.
 
 Pages include:
-- Dashboard
-- Customers
-- Products
-- Sales
-- Login / Register
-- Reports
 
----
+Dashboard
+Customers
+Products
+Sales
+Login / Register
+Reports
+🔐 3. Supabase Setup
 
-## 🔐 3. Supabase Setup  
-Supabase was added as the backend service.
+Supabase was added as the backend service for the system.
 
-- Connected using `.env` file
-- Prepared for authentication and database features
+Connected using environment variables (.env file)
+Prepared for authentication (login and registration)
+Prepared for database integration
+🎨 4. UI Setup
 
----
+A basic layout structure was created to ensure consistency across pages:
 
-## 🎨 4. UI Setup  
-Basic layout structure was created using:
+Sidebar navigation
+Top Navbar
+Main content area
+🧪 5. Output of Sprint 1
 
-- Sidebar
-- Navbar
-- Main content area
-
-This ensures a consistent design across pages.
-
----
-
-## 🧪 5. Output of Sprint 1  
 At the end of Sprint 1:
 
-- Project runs using Vite
-- Navigation is working
-- Basic UI layout is ready
-- Supabase setup is prepared
+The project runs using Vite
+Navigation between pages is working
+Basic UI layout is ready
+Supabase is set up and ready for use
+🚧 6. Current Status
+Backend features are not yet fully implemented
+Some pages are still basic or placeholder
+More features will be developed in Sprint 2 and Sprint 3
+📌 Conclusion
 
----
-
-## 🚧 6. Current Status  
-- Backend features are not yet implemented  
-- Some pages are still basic  
-- More features will be added in the next sprints  
-
----
-
-## 📌 Conclusion  
-Sprint 1 successfully established the foundation of the system. The project is ready for further development.
+Sprint 1 successfully established the foundation of the HOPE INC. Customer Management System. The project is now ready for further development and feature integration in the next sprints.
